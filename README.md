@@ -12,3 +12,5 @@ payment system are offered the opportunity to pay for the order by the banking C
 To obtain the shop ID, you need to contact [E-PUL](https://www.e-pul.az/) support at the following e-mail address: support@e-pul.az
 
 The system [E-PUL](https://www.e-pul.az/) supports charge only in Azerbaijani manats (AZN).
+
+
